@@ -1,5 +1,5 @@
 # Auto-generated Abeille's MD5 file. DO NOT MODIFY !
-# VERSION="260114-BETA-1"
+# VERSION="260114-BETA-TEMP-260114-1"
 xxxxxxxxx-md5-skipped-xxxxxxxxxx *.editorconfig
 xxxxxxxxx-md5-skipped-xxxxxxxxxx *.gitattributes
 xxxxxxxxx-md5-skipped-xxxxxxxxxx *.github/dependabot.yml
@@ -1091,6 +1091,7 @@ d6cc7433559a70a01214af1149f7a51e  core/config/devices_images/node_LCT010.png
 929825df450cadb9ab8516b0108d8dfc  core/config/devices_images/node_LST001.png
 929825df450cadb9ab8516b0108d8dfc  core/config/devices_images/node_LST002.png
 96e20b950b63c77ae987fc0284fbd919  core/config/devices_images/node_LTA001.png
+96e20b950b63c77ae987fc0284fbd919  core/config/devices_images/node_LTA009.png
 c88721821ee2b2aea2252399cd015657  core/config/devices_images/node_LTW010.png
 c6e0d8197f7415659e769f7f78513114  core/config/devices_images/node_LTW012.png
 ba5d7e89e000b0cfadb3e2d5470746a6  core/config/devices_images/node_LTW013.png
@@ -1346,6 +1347,7 @@ bbb7acf846784b31c23d2ca473dd5980  core/config/devices_images/node_zigbeeColortem
 4394188c618aef4d165157c3b9701988  core/config/devices_images/node_zigbeeOnOffLight.png
 c7b21d7f825a1bf49ba4aea5d5dc7a52  core/config/devices_images/node_zigbeeWindowCoveringDevice.png
 2261d07e5db7eb40b621b54973d81cb7  core/config/devices_local/LISEZMOI.txt
+xxxxxxxxx-md5-skipped-xxxxxxxxxx *core/config/devices_local/LTA009_100B/LTA009_100B.json
 a03262b18f2d6fe7f9e99bb72ae4c38b  core/config/devices_local/README.txt
 a12372ddc5006c5af55e41847b9c6bf5  core/config/ignore_on_push.txt
 ac6921e46447a8dcfbf2242350aa30f3  core/config/rucheCommand.json
@@ -1488,11 +1490,11 @@ ef07bed7cde5d10d47bf2d186fe355c9  images/death.png
 0d2a0e4b178ac89579af8d9b68dbc5d3  mobile/html/Abeille.html
 2517e8996a5d2d8bef4dc938d927181d  mobile/js/Abeille.js
 xxxxxxxxx-md5-skipped-xxxxxxxxxx *plugin_info/Abeille.md5
-a02f43078a09a67545abcb6375ef7b8e  plugin_info/Abeille.version
+6935170086104c73fbcc76502df4c362  plugin_info/Abeille.version
 c5242209258a6a3fe0190fed4e97f623  plugin_info/Abeille_icon-orig.png
 fb6b465ec4a792559cfcc138720be6e2  plugin_info/Abeille_icon.png
 53c5bfa84bdb512350b04db09c7d0e7a  plugin_info/configuration.php
-0a35196526437e4bfe8f4894e6e4b401  plugin_info/info.json
+34423eeff721fd37c8457abf7c13f5c5  plugin_info/info.json
 3fd0725d918e184139db41f938d73456  plugin_info/install.php
 fa66c2e280e095a90334aa2c690f9158  plugin_info/packages.json
 cbc04c02c72c949415f5d285181813e6  plugin_info/pre_install.php
